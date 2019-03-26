@@ -8,7 +8,7 @@ import java.util.Arrays;
  * public static void sort(数组),按照默认升序对数组的元素进行排序。
  *
  * 备注：
- * 1.如果是数值，sort默认按照升序从小到大
+ * 1.如果是数值，sort默认按照升序从小到 大
  * 2.如果是字符串，sort默认按照字母升序
  * 3.如果是自定义的类型，那么这个自定义的类需要有Comparable或者Compartor接口的支持。
  */
